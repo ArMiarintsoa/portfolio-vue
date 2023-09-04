@@ -9,10 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.45"
+    "lottie-web": "^5.12.2",
+    "lottie-web-vue": "^2.0.7",
+    "vue": "^3.2.45",
+    "vue-router": "^4.2.4",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.66.1",
+    "sass-loader": "^13.3.2",
     "vite": "^4.1.0"
   }
 }

@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "IPhone 11",
+      "price": 10.99,
+      "img" : "https://www.digitaltrends.com/wp-content/uploads/2019/09/iphone11-review.jpg?p=1"
+    },
+    {
+      "id": 2,
+      "name": "Google pixel 2 XL",
+      "price": 15.99,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfuuQxC46z0OlRF5h92qWiYEbClWvR3eQeEcNN5SVkI5EyHyrBVkIcS3HecQYVV6Fyp8&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S23 ",
+      "price": 8.49,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YgyIoXXW-eRgWpNXsUS7_IGjoWyoD2nBy5RZLirOZi9_jHSt1kRTBCh3jIbSd2ktzok&usqp=CAU"
+    }
+]
+  

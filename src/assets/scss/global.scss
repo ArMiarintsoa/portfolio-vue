@@ -1,0 +1,23 @@
+
+@import  "./variables";
+// @import url('https://fonts.googleapis.com/css?family=Poppins:wght@300;400;500;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {    
+    margin: 0px;        
+    // background-color: $light-color;
+}
+
+a {
+    text-decoration: none;
+}
