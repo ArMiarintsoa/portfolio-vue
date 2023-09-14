@@ -4,7 +4,7 @@
             <h1>Hi, I'm <span>Miarintsoa <span class="second-name" >Itokiana</span></span></h1>
             <div class="text-animate">
                 <h3>Web Developper</h3>
-                <p>Student and junior IT developper, freshly graduated from "Institut Superieur Polytechnique de Madagascar" also called ISPM</p>
+                <p>Junior IT developper and Student, freshly graduated from "Institut Superieur Polytechnique de Madagascar" also called ISPM</p>
     
                 <div class="btn-box">
                     <a href="" class="btn">Contact Me</a>                        
@@ -42,7 +42,7 @@
         display: flex;
         align-items: center;
         padding: 0 9%;
-        background-color: $light-color;
+        background-color: $dark-color;
         /* background: url('/img/home.jpeg') no-repeat; */        
         background-size: cover;
         background-position: center;
@@ -52,7 +52,7 @@
                 font-size: 3rem;
                 font-weight: 700;
                 line-height: 1.3;
-                color: $dark-color;
+                color: $light-color;
                 span {
                     color: $secondary-color;
                     font-size: 4rem;
@@ -70,13 +70,13 @@
                     font-size: 3.2rem;
                     font-weight:700;
                     color: transparent;
-                    -webkit-text-stroke: 2px $dark-color;                    
+                    -webkit-text-stroke: 2px $light-color;                    
                 }
                 p {
                     font-size: 1.3rem;
                     margin-top: 2rem;
                     margin-bottom: 2rem;
-                    color: $dark-color;
+                    color: $light-color;
                 }
             }
             .btn-box {
